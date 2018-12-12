@@ -8,10 +8,13 @@ Universal Portable Property Unique ID Repository Scope
 
 3. Implement RESO standard signatures for:
 
-a. Searching and returning one or more PUIDs
-b. Based on address
-c. Based on Geospatial coordinates
-d. Based on other property characteristics as determined if feasible
+3.1) Searching and returning one or more PUIDs
+
+3.2) Based on address
+
+3.3) Based on Geospatial coordinates
+
+3.4) Based on other property characteristics as determined if feasible
 
 8. Host and provides an open source universal portable property unique ID repository
 
