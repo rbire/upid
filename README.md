@@ -1,7 +1,6 @@
-# upid
-Proposal for unique property identifier implementation
+# Proposal for unique property identifier implementation
 
-<h2>Universal Portable Property Unique ID Repository Scope</h2>
+##Universal Portable Property Unique ID Repository Scope
 
 1. Define a model to represent a portable property ID (PUID) based on public information
 
